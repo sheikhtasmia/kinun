@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Smartphone XYZ",
+    "image": "/assets/products/smartphone_xyz.jpg",
+    "price": 299,
+    "description": "Latest 5G smartphone with 128GB storage.",
+    "category": "Electronics",
+    "subcategory": "Mobiles",
+    "supplier": "SupplierA"
+  },
+  {
+    "title": "Men's Casual T-Shirt",
+    "image": "/assets/products/casual_tshirt.jpg",
+    "price": 19,
+    "description": "100% cotton, various sizes.",
+    "category": "Clothing",
+    "subcategory": "Men",
+    "supplier": "SupplierB"
+  },
+  {
+    "title": "Wireless Earbuds",
+    "image": "/assets/products/earbuds.jpg",
+    "price": 39,
+    "description": "Noise cancelling, 20hr battery.",
+    "category": "Accessories",
+    "subcategory": "Audio",
+    "supplier": "SupplierC"
+  },
+  {
+    "title": "Non-Stick Frying Pan",
+    "image": "/assets/products/frying_pan.jpg",
+    "price": 25,
+    "description": "Suitable for all cooktops.",
+    "category": "Kitchen",
+    "subcategory": "Cookware",
+    "supplier": "SupplierD"
+  }
+]
