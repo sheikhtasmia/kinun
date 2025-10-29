@@ -4,9 +4,9 @@
   "description": "Backend for Kinun Dot Com - Node.js + Express API",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon server.js"
-  },
+  "start": "node server.js",
+  "dev": "nodemon server.js"
+}
   "author": "Sheikh Tasmia",
   "license": "ISC",
   "dependencies": {
